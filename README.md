@@ -48,6 +48,38 @@ Despesas operacionais (OpEx)
 
   ![image](https://github.com/user-attachments/assets/eafaf65b-00a7-4aff-bf3f-684cb35448fe)
 
+  ---------------------
+
+  # Tipos de Serviços
+    # IaaS - Infraestrutura como Serviço
+  Fornece: Recursos de infraestrutura como servidores, armazenamento, redes e sistemas operacionais.
+
+  Usuário gerencia:Sistema operacional, aplicações, dados
+
+  Escalabilidade: Alta, com pagamento sob demanda
+
+    # PaaS - Plataforma como Serviço
+
+  Fornece: Plataforma com sistema operacional, banco de dados, middleware e ferramentas de desenvolvimento.
+
+  Usuário Gerencia: Apenas os aplicativos e dados
+
+  Produditividade: Alta, com foco no desenvolvimento sem se preocupar com a infraestrutura.
+
+    # SaaS - Software como Serviçco
+
+  Fornece: Aplicativos completos prontos para uso, acessados via internet.
+
+  Usuário gerencia: Apenas o uso da aplicação
+
+  Facilidade de uso: Alta, sem necessidade de instalação ou manutenção.
+
+  
+  # Modelo de Responsabilidade Compartilhada
+
+  ![image](https://github.com/user-attachments/assets/c7efa3ba-5c40-4ba7-8df1-f02d4ec9f4ef)
+
+
           
           
           
