@@ -79,6 +79,13 @@ Despesas operacionais (OpEx)
 
   ![image](https://github.com/user-attachments/assets/c7efa3ba-5c40-4ba7-8df1-f02d4ec9f4ef)
 
+  # Zona de Disponibilidade
+
+
+![image](https://github.com/user-attachments/assets/49fdf520-a09e-468d-bc9f-3ece37fffc2d)
+
+  
+  
 
           
           
